@@ -41,16 +41,6 @@ class ViewController: UIViewController {
              print("Bye, World! %d", i)
          }
     }
-    
-//    func changeText1 ()
-//    {
-//        lblName.text = "Hello XYZ"
-//
-//         for i in 1...100 {
-//             //outputs Hello world for 100 times in the screen
-//             print("Hello, World! %d", i)
-//         }
-//    }
 
 }
 
