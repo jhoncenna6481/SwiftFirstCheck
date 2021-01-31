@@ -24,7 +24,7 @@ class ViewController: UIViewController {
 
     func changeText ()
     {
-        lblName.text = "Hello XYZ"
+        lblName.text = "Hello BYZ"
         
          for i in 1...100 {
              //outputs Hello world for 100 times in the screen
@@ -34,11 +34,11 @@ class ViewController: UIViewController {
     
     func changeText1 ()
     {
-        lblName.text = "Hello XYZ"
+        lblName.text = "Hello WWW"
         
          for i in 1...100 {
              //outputs Hello world for 100 times in the screen
-             print("Hello, World! %d", i)
+             print("Hello, 123! %d", i)
          }
     }
 
